@@ -1,0 +1,14 @@
+.navbar {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero-section {
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+  background-image: url('../img/Fotografia_1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 15rem 15rem;
+}
